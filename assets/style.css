@@ -1,0 +1,12 @@
+#coronavirus_notice{padding:20px;font-size:18px;font-family:Arial,san-serif;line-height:24px;text-align:center;width:100%;box-sizing:border-box;}
+.coronavirus_top-static{position:fixed;top:0px;left:0px;z-index:2147483647;}
+.coronavirus_bottom{}
+.coronavirus_bottom-static{position:fixed;bottom:0px;left:0px;z-index:2147483647;}
+.coronavirus_inline{}
+.coronavirus_notice_w_adminbar{margin-top:32px;}
+.cnm_inner{position:relative;}
+.cnm_h2{margin-bottom:20px;font-size:26px;font-weight:bold;}
+.cnm_txt{font-size:18px;font-family:Arial,san-serif;line-height:24px;}
+.cnm_btn_row{margin-top:15px;}
+a.cnm_btn{margin:0px;padding:8px 15px;-webkit-border-radius:5px;border-radius:5px;text-decoration:none !important;display:inline-block !important;}
+a.cnm_close{padding:10px;position:absolute;top:-15px;right:30px;font-size:26px;font-family:Arial,san-serif;font-weight:bold;text-decoration:none !important;border:0px !important;display:inline-block;text-align:center;}
